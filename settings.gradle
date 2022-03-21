@@ -1,0 +1,5 @@
+rootProject.name = 'lesson1.4-gradle'
+include 'db'
+include 'api'
+include 'service'
+
